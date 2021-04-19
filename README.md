@@ -15,19 +15,13 @@ Here are screenshots of some application views.
 
 ![intro](https://github.com/breezy11/smart-sum-parking/blob/master/screenshots/intro.png "Intro")
 
-Main
 
 ![main](https://github.com/breezy11/smart-sum-parking/blob/master/screenshots/main-screen.png)
 
-Reserve
 
 ![reserve](https://github.com/breezy11/smart-sum-parking/blob/master/screenshots/reserve.png)
 
-Settings
-
 ![settings](https://github.com/breezy11/smart-sum-parking/blob/master/screenshots/settings.png)
-
-User management
 
 ![management](https://github.com/breezy11/smart-sum-parking/blob/master/screenshots/user-managament.png)
 
