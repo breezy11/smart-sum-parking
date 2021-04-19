@@ -11,6 +11,8 @@ The information regarding the availability of parking is sent to the application
 
 ## views
 
+Here are screenshots of some application views.
+
 Welcome
 
 ![intro](https://github.com/breezy11/smart-sum-parking/blob/master/screenshots/intro.png)
