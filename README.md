@@ -7,7 +7,7 @@ The application was created by Robert Sliškovič, Bože Skoko, and me.
 ## about
 
 The application's goal was to organize parking on the entire campus. <br> The parking spots have sensors that regulate whether they are available or not. <br>
-The information regarding the availability of parking is sent to the application through an API every minute. <br>You can also reserve the parking spot in advance.
+The information regarding the availability of parking is sent to the application through an API every minute.
 
 ## views
 
